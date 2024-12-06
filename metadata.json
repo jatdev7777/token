@@ -1,0 +1,10 @@
+{
+  "name": "Example Token",
+  "symbol": "EXMPL",
+  "uri": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/metadata.json",
+  "description": "This is an example token.",
+  "image": "https://example.com/new-image.png",
+  "attributes": [
+    { "trait_type": "Color", "value": "Red" }
+  ]
+}
